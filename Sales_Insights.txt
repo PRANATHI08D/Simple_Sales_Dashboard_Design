@@ -1,0 +1,13 @@
+
+?? Key Insights
+?? Insights from the Dashboard
+1. ?? Monthly Sales Trend is Declining
+* The line chart (Sales by monthYear) shows a steady decline in sales over time.
+* This could indicate decreasing customer demand, seasonal effects, or data entry gaps that may need investigation.
+2. ?? West Region is the Top Performer
+* The bar chart (Sales by Region) shows that the West region has the highest sales, followed by East, Central, and South.
+* This suggests that business strategies in the West are working well, and can be replicated in other regions.
+3. ?? Technology Category Leads in Sales
+* The donut chart (Sales by Category) highlights that Technology contributes the most (60.3%) to total sales.
+* Furniture and Office Supplies make up the remaining share, with Office Supplies being the lowest.
+
